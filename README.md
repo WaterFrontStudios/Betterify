@@ -1,12 +1,14 @@
 # Betterify
 Open source Spotify modification currently only supporting themes. This is currently a novelty as there is no way (yet) to make it automatically trigger. This modification does not allow everything yet. You must have chrome installed.
 
+<img src="Betterify.PNG">
+
 Comes with 1 theme.
 Fully Customizable.
 
 # Usage
 > ## Step 1
-> Download the file [https://github.com/WaterFrontStudios/Betterify/blob/Code/Betterify.js](here).
+> Download the file [here](https://github.com/WaterFrontStudios/Betterify/blob/Code/Betterify.js).
 > ## Step 2
 > Enable debugging in Spotify. To do this right click on your Spotify shortcut and add ` --remote-debugging-port=9222` to the Target and click ok.
 > ## Step 3
