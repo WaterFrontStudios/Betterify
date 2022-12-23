@@ -8,7 +8,7 @@ Fully Customizable.
 
 # Usage
 > ## Step 1
-> Download the file [here](https://github.com/WaterFrontStudios/Betterify/blob/Code/Betterify.js).
+> Download the lastest version [here](https://github.com/WaterFrontStudios/Betterify/releases).
 > ## Step 2
 > Enable debugging in Spotify. To do this right click on your Spotify shortcut and add ` --remote-debugging-port=9222` to the Target and click ok. It should end up as `<PATH> --remote-debugging-port=9222`.
 > ## Step 3
